@@ -1,4 +1,4 @@
-# Christopher Robertson - Software Developer
+# Christopher Robertson - Software Engineer
 
 ![procedural](images/procedural.gif)
 
